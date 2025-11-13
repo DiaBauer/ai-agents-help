@@ -1,0 +1,20 @@
+[
+  {
+    "id": "email_helper",
+    "name": "E-Mail Agent",
+    "description": "Sortiert und beantwortet E-Mails automatisch.",
+    "category": "Kommunikation",
+    "language": "Deutsch",
+    "link": "https://chat.openai.com/g/xyz-email",
+    "recommended": true
+  },
+  {
+    "id": "content_creator",
+    "name": "Content Creator GPT",
+    "description": "Erstellt Texte, Ideen und Beiträge auf Zuruf.",
+    "category": "Marketing",
+    "language": "Multilingual",
+    "link": "https://chat.openai.com/g/xyz-content",
+    "recommended": false
+  }
+]
